@@ -1,3 +1,5 @@
+------------------------------------------
+
 mern ecommerce - 
 frontend: - 
 VITE_FIREBASE_API_KEY = "AIzaSyDgodOSycKd0zE5-jzGZuEkv6LCJu0g5MY"
@@ -9,6 +11,8 @@ JWT_SECRET = 'hellohello'
 STRIPE_PUBLISHABLE_KEY="pk_test_51Oxaf2SCQo5OhNIghSF8PpPCtFwctQkpC3Lk9sD89t8FQvbjefyngHIkiSz0ud0U60GPnbmNPcpmJBmLq3HNeFB100Y05Nh7sS"
 
 STRIPE_SECRET_KEY="sk_test_51Oxaf2SCQo5OhNIgylV0L71r0QOekEwATozjFm8XXd6kQnnAjpOBD7wzbhYJK5dHAHZ9yjTI62BofqX4bT21HAsd00AizxTe7x"
+
+VITE_FIREBASE_API_KEY = "AIzaSyDgodOSycKd0zE5-jzGZuEkv6LCJu0g5MY"
 
 ------------------------------------
 
