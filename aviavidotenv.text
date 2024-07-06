@@ -1,3 +1,8 @@
+chat app- 
+MONGO = "mongodb+srv://avijithira14:CLGDHax8vfI8VbDc@chat-app.kcjkdrd.mongodb.net/"
+JWT_SECERET = "AvijitAvijit"
+
+VITE_FIREBASE_API_KEY = "AIzaSyCKe3cGooevmSu8GtdD0MNS2By4euMZ9As"
 ------------------------------------------
 
 mern ecommerce - 
